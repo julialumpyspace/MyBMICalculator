@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  MyBMICalculator
 //
-//  Created by Юлія Воробей on 15.04.2024.
+//  Created by Yuliia Vorobei on 06.03.2024.
 //
 
 import UIKit
